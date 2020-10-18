@@ -1,0 +1,2 @@
+A execução dos programas deve ser execultada pelo netbens.
+O programa possui duas versões compacta que determina o agendamento e a versão complexa que determina o gerenciamento da passagens aérea.
